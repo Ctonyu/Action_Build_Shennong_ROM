@@ -9,7 +9,7 @@ on:
       VENDOR_URL:
         description: "底包下载地址"
         required: true
-        default: 'https://cdn-ota.azureedge.net/OS1.0.33.0.UNBCNXM/miui_SHENNONG_OS1.0.33.0.UNBCNXM_bd2a9334c8_14.0.zip'
+        default: 'https://cdn-ota.azureedge.net/OS1.0.14.0.UNBCNXM/miui_SHENNONG_OS1.0.14.0.UNBCNXM_1769ea28b5_14.0.zip'
 
 jobs:
   build:
